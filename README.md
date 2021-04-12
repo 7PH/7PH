@@ -3,5 +3,7 @@
 Hi there!
 
 I would love that you take a look at some cool projects I've made:
-- [A discord/plugdj-like discussion platform written in typescript with live cursor visualization](https://github.com/skychatorg/skychat)
-- [A demo of the animation shown above on my website](https://benjamin-raymond.pro)
+
+[<img src="https://avatars.githubusercontent.com/u/49348260?s=24&v=4"> A discord/plugdj-like discussion platform written in typescript with live cursor visualization](https://github.com/skychatorg/skychat)
+
+[<img src="https://avatars.githubusercontent.com/u/31401273?s=24&v=4"> A demo of the animation shown above on my website](https://benjamin-raymond.pro)
