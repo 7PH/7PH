@@ -6,7 +6,7 @@
     <tbody>
         <tr>
             <td><a href="https://github.com/skychatorg/skychat"><img src="https://avatars.githubusercontent.com/u/49348260?s=32&v=4"></a></td>
-            <td>A virtual cinema platform built with UX and privacy in mind</td>
+            <td>Synchronized YouTube/Twitch/self-hosted player with advanced chat features</td>
             <td><a href="https://github.com/skychatorg/skychat">view code</a></td>
         </tr>
         <tr>
