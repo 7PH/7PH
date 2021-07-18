@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋</h1>
 
-<p align="center">Glad you landed there. Checkout these projects:</p>
+<p align="center">Hi 👋 Here are cool projects I've made:</p>
 
 <table align="center">
     <tbody>
