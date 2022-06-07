@@ -5,12 +5,12 @@
     <tbody>
         <tr>
             <td><a href="https://github.com/skychatorg/skychat"><img src="https://avatars.githubusercontent.com/u/49348260?s=32&v=4"></a></td>
-            <td>Synchronized YouTube/Twitch/self-hosted player with advanced chat features</td>
+            <td>SkyChat / Open source virtual cinema platform</td>
             <td><a href="https://github.com/skychatorg/skychat">view code</a></td>
         </tr>
         <tr>
             <td><a href="https://benjaminraymond.com"><img src="https://user-images.githubusercontent.com/31401273/172409062-80e82170-658e-4aff-9b61-e4e3266e3944.png"></a></td>
-            <td>Artistic music visualizer (use headphones)</td>
+            <td>PowerAudio / Innovative audio visualization library</td>
             <td><a href="https://benjaminraymond.com">view demo</a></td>
         </tr>
     </tbody>
