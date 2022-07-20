@@ -12,7 +12,7 @@
         <tr>
             <td><a href="https://7ph.github.io/powerglitch/#/"><img src="./powerglitch.gif" width="32" height="32"></a></td>
             <td align="center">PowerGlitch</td>
-            <td>Glitch any image on the web</td>
+            <td>Glitch images on the web</td>
             <td align="center"><a href="https://7ph.github.io/powerglitch/#/">website</a></td>
         </tr>
         <tr>
